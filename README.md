@@ -1,4 +1,4 @@
-I am an **epidemiologist** working at the intersection between **🌍 environmental exposures** and **🏥 adverse human health outcomes**.
+### I am an **epidemiologist** working at the intersection between ** environmental exposures** and ** adverse human health outcomes**.
 
 ### 🔬 Research Focus 🧠 Neurodevelopmental | 🧬 Neurodegenerative | 👶 Birth Outcomes
 
