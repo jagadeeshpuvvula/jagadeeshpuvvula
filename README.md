@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**jagadeeshpuvvula/jagadeeshpuvvula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an epidemiologist working at the intersection between 🌍 environmental exposures and 🏥 adverse human health outcomes.
 
-Here are some ideas to get you started:
+🔬 Research Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily focus on:
+
+🧠 Neurodevelopmental outcomes
+🧬 Neurodegenerative conditions
+👶 Birth Outcomes
+🧬 Multi-Omics Integration
+
+My work involves integration of biological intermediates to understand exposure-response mechanistic associations:
+
+🔗 Epigenome - DNA methylation patterns and histone modifications
+📊 Transcriptome - Gene expression profiling and RNA sequencing
+🛡️ Proteome - Protein expression and functional analysis
+⚗️ Metabolome - Small molecule metabolite profiling
+🎓 Academic Positions
+
+🏛️ Current
+
+Instructor of Biostatistics and Epidemiology at University of Pennsylvania Perelman School of Medicine
+NIH NIEHS K99 Fellow 🏆
+📚 Education Journey
+
+Post-doctoral Fellow (2022-2024) | University of Pennsylvania with Dr. Aimin Chen
+PhD in Environmental Health & Toxicology (2022) | University of Nebraska Medical Center with Dr. Jesse Bell
+MPH in Epidemiology
+PharmD degree
+🤝 Let's Connect & Collaborate!
+
+Interested in environmental epidemiology, multi-omics integration, or public health research?
