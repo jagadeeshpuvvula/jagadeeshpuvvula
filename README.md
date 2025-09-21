@@ -4,8 +4,8 @@
 
 ### 🔗 Multi-Omics Integration 🧬 Epigenome | 📊 Transcriptome | 🛡️ Proteome | ⚗️ Metabolome
 
-### 🏛️ Current: Instructor, Biostatistics & Epidemiology - UPenn Perelman School of Medicine | NIH NIEHS K99 Fellow 🏆
+### 🏛️ Current: Instructor, Biostatistics & Epidemiology - UPenn Perelman School of Medicine | NIH NIEHS K99 Fellow
 
-### 📚 Background: PhD Environmental Health & Toxicology | MPH Epidemiology | PharmD
+### 📚 Background: PhD (Environmental Health & Toxicology) | MPH (Epidemiology) | PharmD
 
 ---
