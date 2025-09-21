@@ -2,7 +2,7 @@
 
 ### 🔬 Research Focus 🧠 Neurodevelopmental | 🧬 Neurodegenerative | 👶 Birth Outcomes
 
-### 🧬 Multi-Omics Integration 🔗 Epigenome | 📊 Transcriptome | 🛡️ Proteome | ⚗️ Metabolome
+### 🔗 Multi-Omics Integration 🧬 Epigenome | 📊 Transcriptome | 🛡️ Proteome | ⚗️ Metabolome
 
 ### 🏛️ Current: Instructor, Biostatistics & Epidemiology - UPenn Perelman School of Medicine | NIH NIEHS K99 Fellow 🏆
 
